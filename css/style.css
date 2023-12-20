@@ -217,7 +217,7 @@ section {
 }
 
 #skills {
-    background: #151515 url(/images/gear-5-in-anime-1.webp) no-repeat center center;
+    background: #151515 url(../images/gear-5-in-anime-1.webp) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -363,7 +363,7 @@ footer p {
     }
 
     #skills {
-        background: #151515 url(/images/gear-5-in-anime-1.webp) no-repeat center center;
+        background: #151515 url(../images/gear-5-in-anime-1.webp) no-repeat center center;
         background-position: top center;
 
     }
