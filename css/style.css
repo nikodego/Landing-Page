@@ -53,7 +53,7 @@
  * =================================================================== */
 
  .section-image {
- 	background: #151515 url(./images/Luffy191.webp) no-repeat center center;
+ 	background: #151515 url(../images/Luffy191.webp) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
